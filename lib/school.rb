@@ -13,5 +13,5 @@ class School
     else
       roster[grade] = name
     end
-  
+
 end
